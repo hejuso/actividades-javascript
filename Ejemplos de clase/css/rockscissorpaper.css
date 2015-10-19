@@ -1,0 +1,15 @@
+.perder{
+	background-color: #ff0000;
+	color: white;
+}
+
+.ganar{
+	background-color: #047415;
+	color:blue;
+}
+
+.empatar{
+	background-color: #0fff00;
+	color:green;
+
+}
